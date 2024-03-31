@@ -1,0 +1,25 @@
+# Fdb version 4
+["pdflatex"] 1711680920.95739 "c:/Users/guill/OneDrive/Escritorio/texto-1.tex" "build/texto-1.pdf" "texto-1" 1711681053.68981 2
+  "C:/Users/guill/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsbsy.sty" 1686931788 2222 499d61426192c39efd8f410ee1a52b9c ""
+  "C:/Users/guill/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsgen.sty" 1686931787 4173 82ac04dfb1256038fad068287fbb4fe6 ""
+  "C:/Users/guill/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsmath.sty" 1686931788 88371 d84032c0f422c3d1e282266c01bef237 ""
+  "C:/Users/guill/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsopn.sty" 1686931788 4474 b811654f4bf125f11506d13d13647efb ""
+  "C:/Users/guill/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amstext.sty" 1686931788 2444 0d0c1ee65478277e8015d65b86983da2 ""
+  "C:/Users/guill/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1705273579 20144 147463a6a579f4597269ef9565205cfe ""
+  "C:/Users/guill/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty" 1705273578 5119 a04a8b68ab4f6ce800a41f7f8012a10e ""
+  "C:/Users/guill/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1705273578 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
+  "C:/Users/guill/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1710412547 29918 d08e4795c0778dfb000e82d9225c6ce2 ""
+  "C:/Users/guill/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty" 1710413133 6565 0b340a7e9bf9e07ae19f3e617f5e364a ""
+  "C:/Users/guill/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1710413257 4674 6210c671686aebd688a59108f03c2182 ""
+  "C:/Users/guill/AppData/Local/Programs/MiKTeX/tex/latex/mhchem/mhchem.sty" 1707592118 133877 abeecc93dabd0b08364240f40830f21b ""
+  "C:/Users/guill/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1700599895 10214 547fd4d29642cb7c80bf54b49d447f01 ""
+  "build/chemgreek.sty" 0 -1 0 ""
+  "build/texto-1.aux" 1711680920 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "c:/Users/guill/OneDrive/Escritorio/texto-1.tex" 1711679985 150 e2bcf694dcf9f9b37f5396717042f79a ""
+  "chemgreek.sty" 0 -1 0 ""
+  "texto-1.tex" 1711679985 150 e2bcf694dcf9f9b37f5396717042f79a ""
+  (generated)
+  "build/texto-1.aux"
+  "build/texto-1.log"
+  "build/texto-1.pdf"
+  (rewritten before read)
