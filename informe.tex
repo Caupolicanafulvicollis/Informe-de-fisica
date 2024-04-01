@@ -16,11 +16,8 @@
 %\usepackage{subcaption}
 \usepackage{setspace}
 \renewcommand{\baselinestretch}{1.5}
-\bibliography{referencias}
-\usepackage[backend=biber]{biblatex}
-\usepackage[backend=biber,citestyle=numeric]{biblatex}
-\bibliography{referencias}
-
+\usepackage[backend=biber,style=ieee]{biblatex}
+\addbibresource{referencias.bib}
 
 
 
@@ -57,11 +54,11 @@
     \section*{\centering Introducción}
 
     \section*{\centering Modelo Teórico}
-    La percepción humana de estímulos está sujeta a sesgos cognitivos que distorsionan nuestra interpretación de la realidad ~\cite{Firestone_article}. Bajo esta premisa es indispensable pensar en los errores asociados a la misma medición o estimación de los datos, que sin duda deben ser considerados para evitar errores especialmente si de esto depende la implementación de un proyecto. \\
+    La percepción humana de estímulos está sujeta a sesgos cognitivos que distorsionan nuestra interpretación de la realidad~\cite{firestone2016cognition}. Bajo esta premisa es indispensable pensar en los errores asociados a la misma medición o estimación de los datos, que sin duda deben ser considerados para evitar errores especialmente si de esto depende la implementación de un proyecto.\\
     En este sentido, la teoría del error es un concepto fundamental en la investigación científica y en diversos campos, como la estadística, la ingeniería, la física y la psicología experimental. Se refiere a la noción de que cualquier medición o estimación está sujeta a una cierta cantidad de incertidumbre o imprecisión, conocida como error. 
-    Este error puede deberse a una variedad de factores, como la precisión de los instrumentos de medición, la variabilidad inherente en el fenómeno estudiado o los sesgos introducidos por el propio investigador ~\cite{Gonzalez}.\\
+    Este error puede deberse a una variedad de factores, como la precisión de los instrumentos de medición, la variabilidad inherente en el fenómeno estudiado o los sesgos introducidos por el propio investigador \\
     El mismo autor afirma que la teoría del error desempeña un papel crucial en la validación y confiabilidad de las mediciones científicas. En este contexto, se distinguen dos tipos principales de errores: los errores sistemáticos y los errores aleatorios. Los primeros, atribuibles a causas identificables y corregibles, impactan de manera consistente todas las mediciones en una dirección específica, como la mala calibración de instrumentos o el uso de fórmulas incorrectas. Por otro lado, los errores aleatorios, derivados de variaciones incontrolables en los factores experimentales, introducen incertidumbre de manera impredecible en las mediciones. Estos conceptos son fundamentales para evaluar tanto la exactitud como la precisión de las mediciones, aspectos esenciales para la interpretación confiable de los resultados científicos.\\
-    La comprensión de la teoría del error va más allá de la simple identificación de errores, extendiéndose a la propagación y cuantificación precisa de los mismos en mediciones indirectas. Esto implica el uso de métodos matemáticos para calcular los errores resultantes de operaciones como suma, diferencia, producto y cociente, así como el tratamiento de variables elevadas a potencias. Dichos procedimientos son significativos para estimar la incertidumbre asociada con mediciones indirectas y garantizar la validez de los resultados experimentales. En última instancia, la aplicación rigurosa de la teoría del error no solo mejora la calidad y fiabilidad de la investigación científica, sino que también permite una interpretación más informada y precisa de los fenómenos estudiados ~\cite{Medina}.\\
+    La comprensión de la teoría del error va más allá de la simple identificación de errores, extendiéndose a la propagación y cuantificación precisa de los mismos en mediciones indirectas. Esto implica el uso de métodos matemáticos para calcular los errores resultantes de operaciones como suma, diferencia, producto y cociente, así como el tratamiento de variables elevadas a potencias. Dichos procedimientos son significativos para estimar la incertidumbre asociada con mediciones indirectas y garantizar la validez de los resultados experimentales. En última instancia, la aplicación rigurosa de la teoría del error no solo mejora la calidad y fiabilidad de la investigación científica, sino que también permite una interpretación más informada y precisa de los fenómenos estudiados \\
     
     \section*{\centering Método experimental y resultados}
     
@@ -78,21 +75,21 @@
     Posteriormente, se desarrolló un análisis comparativo para identificar la precisión de la medición, a través de su error relativo, para estimar la magnitud del tiempo de reacción por medio de un análisis estadístico directo e indirecto. \\
     \linebreak
     \section*{\centering Resultados}
-    Una vez tomadas las medidas de la distancia de reacción y el tiempo que demoro bajo 20 repeticiones para evaluar si el método directo o indirecto es el procedimiento más preciso para estimar el tiempo de reacción.A partir de lo anterior se registraron los datos de la distancia (Tabla N°1) y tiempo de reacción (Tabla N°2) en sus respectivas unidades de medida del Sistema Internacional (S.I.). Posteriomente se estimo el valor promedio de cada magnitud física. \\
+    Una vez tomadas las medidas de la distancia de reacción y el tiempo que demoro bajo 20 repeticiones para evaluar si el método directo o indirecto es el procedimiento más preciso para estimar el tiempo de reacción. A partir de lo anterior se registraron los datos de la distancia (Tabla N$^{\circ}$1) y tiempo de reacción (Tabla N$^{\circ}$2) en sus respectivas unidades de medida del Sistema Internacional (S.I.) Posteriomente se estimo el valor promedio de cada magnitud física.
     \subsection*{Valores medidos para la variable distancia y tiempo} 
     \subsection*{Tabla N°1: Valores medidos de la variable distancia}
     Los valores medidos por la variable distancia están descritos en la Tabla N°1. \\
     \begin{table}[]
         \centering
         \begin{tabular}{crlcrlcrlcr}
-        \hline
-        \multicolumn{11}{c}{\textbf{Valores medidos de la distancia}} \\ \hline
-        \multicolumn{1}{l}{\textbf{N}} & \multicolumn{1}{l}{S(m)} &  & \multicolumn{1}{l}{\textbf{N}} & \multicolumn{1}{l}{S(m)} &  & \multicolumn{1}{l}{\textbf{N}} & \multicolumn{1}{l}{S(m)} &  & \multicolumn{1}{l}{\textbf{N}} & \multicolumn{1}{l}{S(m)} \\ \hline
+            \\ \hline 
+        \multicolumn{11}{c}{\textbf{Valores medidos de la distancia}}.\\ \hline 
+        \multicolumn{1}{l}{\textbf{N}} & \multicolumn{1}{l}{S(m)} &  & \multicolumn{1}{l}{\textbf{N}} & \multicolumn{1}{l}{S (m)} &  & \multicolumn{1}{l}{\textbf{N}} & \multicolumn{1}{l}{S (m)} &  & \multicolumn{1}{l}{\textbf{N}} & \multicolumn{1}{l}{S (m)} \\ \hline
         \textbf{1} & 0,150 &  & \textbf{6} & 0,120 &  & \textbf{11} & 0,125 &  & \textbf{16} & 0,165 \\
         \textbf{2} & 0,095 &  & \textbf{7} & 0,090 &  & \textbf{12} & 0,120 &  & \textbf{17} & 0,175 \\
         \textbf{3} & 0,065 &  & \textbf{8} & 0,130 &  & \textbf{13} & 0,050 &  & \textbf{18} & 0,120 \\
         \textbf{4} & 0,050 &  & \textbf{9} & 0,165 &  & \textbf{14} & 0,070 &  & \textbf{19} & 0,055 \\
-        \textbf{5} & 0,100 &  & \textbf{10} & 0,140 &  & \textbf{15} & 0,115 &  & \textbf{20} & 0,020 \\ \hline
+        \textbf{5} & 0,100 &  & \textbf{10} & 0,140 &  & \textbf{15} & 0,115 &  & \textbf{20} & 0,020 \\
         \end{tabular}
         \end{table}
     
@@ -103,14 +100,14 @@
     \begin{table}[]
         \centering
         \begin{tabular}{crlcrlcrlcr}
-            \hline
-            \multicolumn{11}{c}{\textbf{Valores medidos del tiempo}} \\ \hline
-            \multicolumn{1}{l}{\textbf{N}} & \multicolumn{1}{l}{t (s)} &  & \multicolumn{1}{l}{\textbf{N}} & \multicolumn{1}{l}{t (s)} &  & \multicolumn{1}{l}{\textbf{N}} & \multicolumn{1}{l}{t (s)} &  & \multicolumn{1}{l}{\textbf{N}} & \multicolumn{1}{l}{t (s)} \\ \hline
+            \hline 
+            \multicolumn{11}{c}{\textbf{Valores medidos del tiempo}} \\ \hline 
+            \multicolumn{1}{l}{\textbf{N}} & \multicolumn{1}{l}{t (s)} &  & \multicolumn{1}{l}{\textbf{N}} & \multicolumn{1}{l}{t (s)} &  & \multicolumn{1}{l}{\textbf{N}} & \multicolumn{1}{l}{t (s)} &  & \multicolumn{1}{l}{\textbf{N}} & \multicolumn{1}{l}{t (s)}\\ \hline 
             \textbf{1} & 0,95 &  & \textbf{6} & 0,14 &  & \textbf{11} & 0,07 &  & \textbf{16} & 0,14 \\
             \textbf{2} & 0,80 &  & \textbf{7} & 0,07 &  & \textbf{12} & 0,14 &  & \textbf{17} & 0,07 \\
             \textbf{3} & 0,76 &  & \textbf{8} & 0,08 &  & \textbf{13} & 0,14 &  & \textbf{18} & 0,14 \\
             \textbf{4} & 0,94 &  & \textbf{9} & 0,07 &  & \textbf{14} & 0,07 &  & \textbf{19} & 0,14 \\
-            \textbf{5} & 0,41 &  & \textbf{10} & 0,14 &  & \textbf{15} & 0,14 &  & \textbf{20} & 0,40 \\ \hline
+            \textbf{5} & 0,41 &  & \textbf{10} & 0,14 &  & \textbf{15} & 0,14 &  & \textbf{20} & 0,40 \\ 
         \end{tabular}
     \end{table}
     A partir de los datos obtenidos el valor promedio de la magnitud tiempo es $\bar{t}=0,29s$
@@ -120,7 +117,7 @@
     \begin{equation}
         X=\bar{x}\pm \Delta x
     \end{equation}
-    Si la medición de la magnitud física de la distancia se llevó a cabo por medio de un método estadístico (N=20), mediante el empleo de un instrumento analógico. Por lo tanto, se calculara su : 
+    Si la medición de la magnitud física de la distancia se llevó a cabo por medio de un método estadístico (N=20), mediante el empleo de un instrumento analógico. Por lo tanto, se calculara su:
     \begin{equation}
         S=\bar{S}\pm \Delta S
     \end{equation}
@@ -149,13 +146,13 @@ El error instrumental (E.I.) de la variable distancia se midió con una regla, u
     \end{align*}
 \subsection{Desviacion estandar de la poblacion total de una variable}
     \begin{equation}
-        \sigma^{2}={\frac{{\displaystyle \sum_{i=1}^{N}\left(x_{i}-\bar{x}\right)^{2}}}{N}}
+        \sigma^{2}={\frac{{\displaystyle \sum_{i=1}^{N}{\left(x_{i}-\bar{x}\right)}^{2}}}{N}}
     \end{equation}
     Desviación de la poblacion total para la variable tiempo y distancia
     \begin{equation}
-        \sigma_{S}=\sqrt{{\frac{{\displaystyle \sum_{i=1}^{N}\left(S_{i}-\bar{S}\right)^{2}}}{N}}}
+        \sigma_{S}=\sqrt{{\frac{{\displaystyle \sum_{i=1}^{N}{\left(S_{i}-\bar{S}\right)}^{2}}}{N}}}
         \wedge 
-        \sigma_{t}=\sqrt{{\frac{{\displaystyle \sum_{i=1}^{N}\left(t_{i}-\bar{t}\right)^{2}}}{N}}}
+        \sigma_{t}=\sqrt{{\frac{{\displaystyle \sum_{i=1}^{N}{\left(t_{i}-\bar{t}\right)}^{2}}}{N}}}
     \end{equation}
     A partir de los calculos demostrados en la Tabla N°1 y N°2 se obtiene la sumatoria de la diferencia de cuadrados y se considera que N=20
     \begin{align*}
@@ -258,15 +255,15 @@ Para el tiempo también se considera como una medida directa, por lo tanto, se t
     \end{align*}
     \subsection{Estimación del error en una medida indirecta}
     \begin{equation}
-        \Delta F=2\sigma_{m}=2{\sqrt{{\displaystyle\sum_{i=1}^{N}(\sigma_{mx})^{2} (\frac{\partial F}{\partial x_{i}})^{2}}}}
+        \Delta F=2\sigma_{m}=2{\sqrt{{\displaystyle\sum_{i=1}^{N}\sigma_{mx}^{2} \frac{\partial F}{\partial x_{i}}^{2}}}}
     \end{equation}
     Para estimar el error absoluto del tiempo como una medida indirecta se debe calcular la derivada parcial y obtener el valor del error absoluto de la distancia estimada en la resolución F.
     \begin{equation}
-        \Delta t=2\sigma_{mt}=2{\sqrt{(\Delta \bar{S})^{2} (\frac{\partial t}{\partial \bar{S}})^{2}}}
+        \Delta t=2\sigma_{mt}=2{\sqrt{\Delta \bar{S}^{2} \frac{\partial t}{\partial \bar{S}}^{2}}}
     \end{equation}
     Reemplazando los valores obtenidos del error absoluto de la distancia (Resolución F) y el valor de la derivada parcial del tiempo versus distancia (Resolución L), se resuelve:
     \begin{align*}
-        \Delta t=2\sigma_{mt}=2{\sqrt{(0,095)^{2} (0,691)^{2}}}\\
+        \Delta t=2\sigma_{mt}=2{\sqrt{0,095^{2} 0,691^{2}}}\\
         \Delta t=2\sigma_{mt}=2{\sqrt{(0,009025) (0,4774)}}\\
         \Delta t=2\sigma_{mt}=2{\sqrt{0,0656}}\\
         \Delta t=2\sigma_{mt}=2*0,06564\\
@@ -323,6 +320,5 @@ Para el tiempo también se considera como una medida directa, por lo tanto, se t
     \end{align*}
     \section{Discusión}
     \section{Conclusiones}
-
 \printbibliography
 \end{document}
