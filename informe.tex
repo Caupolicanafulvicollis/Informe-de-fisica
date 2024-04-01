@@ -17,8 +17,9 @@
 \usepackage{setspace}
 \renewcommand{\baselinestretch}{1.5}
 \bibliography{referencias}
+\usepackage[backend=biber]{biblatex}
 \usepackage[backend=biber,citestyle=numeric]{biblatex}
-
+\bibliography{referencias}
 
 
 
@@ -56,11 +57,11 @@
     \section*{\centering Introducción}
 
     \section*{\centering Modelo Teórico}
-    La percepción humana de estímulos está sujeta a sesgos cognitivos que distorsionan nuestra interpretación de la realidad ~\cite{Firestone_article}.\printbibliography. Bajo esta premisa es indispensable pensar en los errores asociados a la misma medición o estimación de los datos, que sin duda deben ser considerados para evitar errores especialmente si de esto depende la implementación de un proyecto. \\
+    La percepción humana de estímulos está sujeta a sesgos cognitivos que distorsionan nuestra interpretación de la realidad ~\cite{Firestone_article}. Bajo esta premisa es indispensable pensar en los errores asociados a la misma medición o estimación de los datos, que sin duda deben ser considerados para evitar errores especialmente si de esto depende la implementación de un proyecto. \\
     En este sentido, la teoría del error es un concepto fundamental en la investigación científica y en diversos campos, como la estadística, la ingeniería, la física y la psicología experimental. Se refiere a la noción de que cualquier medición o estimación está sujeta a una cierta cantidad de incertidumbre o imprecisión, conocida como error. 
-    Este error puede deberse a una variedad de factores, como la precisión de los instrumentos de medición, la variabilidad inherente en el fenómeno estudiado o los sesgos introducidos por el propio investigador [2].\\
+    Este error puede deberse a una variedad de factores, como la precisión de los instrumentos de medición, la variabilidad inherente en el fenómeno estudiado o los sesgos introducidos por el propio investigador ~\cite{Gonzalez}.\\
     El mismo autor afirma que la teoría del error desempeña un papel crucial en la validación y confiabilidad de las mediciones científicas. En este contexto, se distinguen dos tipos principales de errores: los errores sistemáticos y los errores aleatorios. Los primeros, atribuibles a causas identificables y corregibles, impactan de manera consistente todas las mediciones en una dirección específica, como la mala calibración de instrumentos o el uso de fórmulas incorrectas. Por otro lado, los errores aleatorios, derivados de variaciones incontrolables en los factores experimentales, introducen incertidumbre de manera impredecible en las mediciones. Estos conceptos son fundamentales para evaluar tanto la exactitud como la precisión de las mediciones, aspectos esenciales para la interpretación confiable de los resultados científicos.\\
-    La comprensión de la teoría del error va más allá de la simple identificación de errores, extendiéndose a la propagación y cuantificación precisa de los mismos en mediciones indirectas. Esto implica el uso de métodos matemáticos para calcular los errores resultantes de operaciones como suma, diferencia, producto y cociente, así como el tratamiento de variables elevadas a potencias. Dichos procedimientos son significativos para estimar la incertidumbre asociada con mediciones indirectas y garantizar la validez de los resultados experimentales. En última instancia, la aplicación rigurosa de la teoría del error no solo mejora la calidad y fiabilidad de la investigación científica, sino que también permite una interpretación más informada y precisa de los fenómenos estudiados [3].\\
+    La comprensión de la teoría del error va más allá de la simple identificación de errores, extendiéndose a la propagación y cuantificación precisa de los mismos en mediciones indirectas. Esto implica el uso de métodos matemáticos para calcular los errores resultantes de operaciones como suma, diferencia, producto y cociente, así como el tratamiento de variables elevadas a potencias. Dichos procedimientos son significativos para estimar la incertidumbre asociada con mediciones indirectas y garantizar la validez de los resultados experimentales. En última instancia, la aplicación rigurosa de la teoría del error no solo mejora la calidad y fiabilidad de la investigación científica, sino que también permite una interpretación más informada y precisa de los fenómenos estudiados ~\cite{Medina}.\\
     
     \section*{\centering Método experimental y resultados}
     
@@ -323,18 +324,5 @@ Para el tiempo también se considera como una medida directa, por lo tanto, se t
     \section{Discusión}
     \section{Conclusiones}
 
-    %$[2]$ González, J. $(2021)$. Muchos datos, distribución Gaussiana y análisis estadístico $[Apunte]$. Universidad Andrés Bello, Santiago,Chile.\\
-    %$[3]$ Medina, Luis U., & Díaz, Sergio E. $(2018)$. Propagación de las incertidumbres en las mediciones aplicada a la identificación en el dominio de la frecuencia de matrices de inercia, rigidez y amortiguación de sistemas mecánicos. Ingeniería y Desarrollo, 36(1), 119-137. https://doi.org/10.14482/inde.36.1.1094\\
-    
+\printbibliography
 \end{document}
-
-@article{Firestone_article,
-author = "Firestone, C., & Scholl, B. J.",
-title = "Cognition does not affect perception: Evaluating the evidence for “top-down” effects. Behavioral and brain sciences",
-journal = "",
-year = "2016",
-number = "e229",
-pages = "39",
-volume = "e229",
-note = "Notas opcionales"
-}
