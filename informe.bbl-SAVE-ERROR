@@ -19,6 +19,166 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
+    \entry{gomez2015desarrollo}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=b6e88a4b3aee87e5a6f1c8c0b8b7ae43}{%
+           family={Gómez\bibnamedelima Andrés},
+           familyi={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6925146cfe5495f3d85467e66320fc30}{%
+           family={Pulido\bibnamedelima Valdeolivas},
+           familyi={P\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+        {{hash=39fa1028e0b3a17db5822265c9031e7f}{%
+           family={Fiz\bibnamedelima Pérez},
+           familyi={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{161ecf082c8e9019815cf156a88552a8}
+      \strng{fullhash}{161ecf082c8e9019815cf156a88552a8}
+      \strng{fullhashraw}{161ecf082c8e9019815cf156a88552a8}
+      \strng{bibnamehash}{161ecf082c8e9019815cf156a88552a8}
+      \strng{authorbibnamehash}{161ecf082c8e9019815cf156a88552a8}
+      \strng{authornamehash}{161ecf082c8e9019815cf156a88552a8}
+      \strng{authorfullhash}{161ecf082c8e9019815cf156a88552a8}
+      \strng{authorfullhashraw}{161ecf082c8e9019815cf156a88552a8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pediatr Integral}
+      \field{number}{9}
+      \field{title}{Desarrollo neurológico normal del niño}
+      \field{volume}{19}
+      \field{year}{2015}
+      \field{pages}{641\bibrangedash 7}
+      \range{pages}{7}
+    \endentry
+    \entry{guyton1977tratado}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=7b346ef0d2a3867d0ee4d7d82a73d7ff}{%
+           family={Guyton},
+           familyi={G\bibinitperiod},
+           given={Arthur\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=570554af6f0e5ad0570daf633fa752c3}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=734d979a5a0956dd89578937c860af17}{%
+           family={Moreno},
+           familyi={M\bibinitperiod},
+           given={Ma\bibnamedelima José},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Interamericana Rio de Janeiro}%
+      }
+      \strng{namehash}{2452fd611cc661d1c89f683f0fe5962f}
+      \strng{fullhash}{2452fd611cc661d1c89f683f0fe5962f}
+      \strng{fullhashraw}{2452fd611cc661d1c89f683f0fe5962f}
+      \strng{bibnamehash}{2452fd611cc661d1c89f683f0fe5962f}
+      \strng{authorbibnamehash}{2452fd611cc661d1c89f683f0fe5962f}
+      \strng{authornamehash}{2452fd611cc661d1c89f683f0fe5962f}
+      \strng{authorfullhash}{2452fd611cc661d1c89f683f0fe5962f}
+      \strng{authorfullhashraw}{2452fd611cc661d1c89f683f0fe5962f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tratado de fisiologia médica}
+      \field{volume}{4}
+      \field{year}{1977}
+    \endentry
+    \entry{perezpreferencia}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=fdff53f74bffae5ea034e6aacd751700}{%
+           family={Pérez\bibnamedelima Jara},
+           familyi={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Alex\bibnamedelima Rafael},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=1c493e830c36f7eda8ef5a33772c3a5f}{%
+           family={Biotecnología},
+           familyi={B\bibinitperiod},
+           given={Carrera},
+           giveni={C\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{17e10a72af486a4ac6d660c67f4b5809}
+      \strng{fullhash}{17e10a72af486a4ac6d660c67f4b5809}
+      \strng{fullhashraw}{17e10a72af486a4ac6d660c67f4b5809}
+      \strng{bibnamehash}{17e10a72af486a4ac6d660c67f4b5809}
+      \strng{authorbibnamehash}{17e10a72af486a4ac6d660c67f4b5809}
+      \strng{authornamehash}{17e10a72af486a4ac6d660c67f4b5809}
+      \strng{authorfullhash}{17e10a72af486a4ac6d660c67f4b5809}
+      \strng{authorfullhashraw}{17e10a72af486a4ac6d660c67f4b5809}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Preferencia del uso de herramientas en Cebus albifrons por medio de herramientas bioinformáticas}
+    \endentry
+    \entry{sandoval2021estudio}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=373f6146abf92d2b25454645849dda2f}{%
+           family={Sandoval\bibnamedelima Bances},
+           familyi={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Valeria},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Católica Santo Toribio de Mogrovejo}%
+      }
+      \strng{namehash}{373f6146abf92d2b25454645849dda2f}
+      \strng{fullhash}{373f6146abf92d2b25454645849dda2f}
+      \strng{fullhashraw}{373f6146abf92d2b25454645849dda2f}
+      \strng{bibnamehash}{373f6146abf92d2b25454645849dda2f}
+      \strng{authorbibnamehash}{373f6146abf92d2b25454645849dda2f}
+      \strng{authornamehash}{373f6146abf92d2b25454645849dda2f}
+      \strng{authorfullhash}{373f6146abf92d2b25454645849dda2f}
+      \strng{authorfullhashraw}{373f6146abf92d2b25454645849dda2f}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Estudio de la motricidad fina en niños de edad preescolar}
+      \field{year}{2021}
+    \endentry
+    \entry{quezada2007potencia}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=9008d98ee29d509cdf84736e04df355d}{%
+           family={Quezada},
+           familyi={Q\bibinitperiod},
+           given={Camilo},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pontificia Universidad Católica de Chile}%
+      }
+      \strng{namehash}{9008d98ee29d509cdf84736e04df355d}
+      \strng{fullhash}{9008d98ee29d509cdf84736e04df355d}
+      \strng{fullhashraw}{9008d98ee29d509cdf84736e04df355d}
+      \strng{bibnamehash}{9008d98ee29d509cdf84736e04df355d}
+      \strng{authorbibnamehash}{9008d98ee29d509cdf84736e04df355d}
+      \strng{authornamehash}{9008d98ee29d509cdf84736e04df355d}
+      \strng{authorfullhash}{9008d98ee29d509cdf84736e04df355d}
+      \strng{authorfullhashraw}{9008d98ee29d509cdf84736e04df355d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Onomázein}
+      \field{number}{16}
+      \field{title}{Potencia estadística, sensibilidad y tamaño de efecto:?` un nuevo canon para la investigación?}
+      \field{year}{2007}
+      \field{pages}{159\bibrangedash 170}
+      \range{pages}{12}
+    \endentry
     \entry{firestone2016cognition}{article}{}{}
       \name{author}{2}{}{%
         {{hash=311680df17dbc3edf2d347d0b96a0896}{%
@@ -43,8 +203,8 @@
       \strng{authornamehash}{30faec8296669e7184000bb2d78350fc}
       \strng{authorfullhash}{30faec8296669e7184000bb2d78350fc}
       \strng{authorfullhashraw}{30faec8296669e7184000bb2d78350fc}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Behavioral and brain sciences}
@@ -53,6 +213,104 @@
       \field{year}{2016}
       \field{pages}{e229}
       \range{pages}{-1}
+    \endentry
+    \entry{Gonzalez}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=ff6697c443b85312ae0f8ef22e676d91}{%
+           family={González},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Andrés Bello}%
+      }
+      \strng{namehash}{ff6697c443b85312ae0f8ef22e676d91}
+      \strng{fullhash}{ff6697c443b85312ae0f8ef22e676d91}
+      \strng{fullhashraw}{ff6697c443b85312ae0f8ef22e676d91}
+      \strng{bibnamehash}{ff6697c443b85312ae0f8ef22e676d91}
+      \strng{authorbibnamehash}{ff6697c443b85312ae0f8ef22e676d91}
+      \strng{authornamehash}{ff6697c443b85312ae0f8ef22e676d91}
+      \strng{authorfullhash}{ff6697c443b85312ae0f8ef22e676d91}
+      \strng{authorfullhashraw}{ff6697c443b85312ae0f8ef22e676d91}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{e229}
+      \field{title}{Muchos datos, distribución Gaussiana y análisis estadístico [Apunte], Santiago,Chile.}
+      \field{volume}{e229}
+      \field{year}{2021}
+      \field{pages}{39}
+      \range{pages}{1}
+    \endentry
+    \entry{medina2018propagacion}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=c5ee3da04b35ef57f7b1ad06a46f3d71}{%
+           family={Medina},
+           familyi={M\bibinitperiod},
+           given={Luis\bibnamedelima U},
+           giveni={L\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=019d5798f484e7777ec25e8893dbaccc}{%
+           family={Díaz},
+           familyi={D\bibinitperiod},
+           given={Sergio\bibnamedelima E},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Fundación Universidad del Norte}%
+      }
+      \strng{namehash}{d047088144d0ff3756b0c1dbe351a3df}
+      \strng{fullhash}{d047088144d0ff3756b0c1dbe351a3df}
+      \strng{fullhashraw}{d047088144d0ff3756b0c1dbe351a3df}
+      \strng{bibnamehash}{d047088144d0ff3756b0c1dbe351a3df}
+      \strng{authorbibnamehash}{d047088144d0ff3756b0c1dbe351a3df}
+      \strng{authornamehash}{d047088144d0ff3756b0c1dbe351a3df}
+      \strng{authorfullhash}{d047088144d0ff3756b0c1dbe351a3df}
+      \strng{authorfullhashraw}{d047088144d0ff3756b0c1dbe351a3df}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ingeniería y Desarrollo}
+      \field{number}{1}
+      \field{title}{Propagación de las incertidumbres en las mediciones aplicada a la identificación en el dominio de la frecuencia de matrices de inercia, rigidez y amortiguación de sistemas mecánicos}
+      \field{volume}{36}
+      \field{year}{2018}
+      \field{pages}{119\bibrangedash 137}
+      \range{pages}{19}
+    \endentry
+    \entry{Ratinoff}{aarticle}{}{}
+      \name{author}{1}{}{%
+        {{hash=d62c98f9985adb156d2084b74b5198af}{%
+           family={[Presentación\bibnamedelimb en\bibnamedelimb archivo\bibnamedelima pdf]},
+           familyi={[\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim p\bibinitperiod},
+           given={Santiago\bibnamedelima Chile},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={mediciones\bibnamedelimb e\bibnamedelima incertidumbre},
+           prefixi={m\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim i\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Andrés Bello}%
+      }
+      \strng{namehash}{d62c98f9985adb156d2084b74b5198af}
+      \strng{fullhash}{d62c98f9985adb156d2084b74b5198af}
+      \strng{fullhashraw}{d62c98f9985adb156d2084b74b5198af}
+      \strng{bibnamehash}{d62c98f9985adb156d2084b74b5198af}
+      \strng{authorbibnamehash}{d62c98f9985adb156d2084b74b5198af}
+      \strng{authornamehash}{d62c98f9985adb156d2084b74b5198af}
+      \strng{authorfullhash}{d62c98f9985adb156d2084b74b5198af}
+      \strng{authorfullhashraw}{d62c98f9985adb156d2084b74b5198af}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{e229}
+      \field{title}{Ratinoff D.}
+      \field{volume}{e229}
+      \field{year}{2021}
+      \field{pages}{39}
+      \range{pages}{1}
     \endentry
   \enddatalist
 \endrefsection
